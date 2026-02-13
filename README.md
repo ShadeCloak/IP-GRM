@@ -5,7 +5,7 @@
 A decoupled reward-modeling framework for open-ended RLHF tasks.  
 IP-GRM separates **principle generation** from **response judging**, reducing response-conditioned bias (*Principle Drift*) and improving reward robustness in GRPO training.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2602.10019-b31b1b.svg)](https://arxiv.org/abs/2602.10019)
+[![arXiv](https://img.shields.io/badge/arXiv-2602.10019-b31b1b.svg)](https://arxiv.org/abs/)
 [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20Model-IP--GRM-yellow)](https://huggingface.co/IP-GRM/IP-GRM)
 [![Data](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-IP--rewarding--8K-blue)](https://huggingface.co/datasets/IP-GRM/IP-rewarding-8K)
 [![CreativeWriting-8B](https://img.shields.io/badge/%F0%9F%A4%97%20Model-CreativeWriting--8B-yellow)](https://huggingface.co/IP-GRM/CreativeWriting-8B)
