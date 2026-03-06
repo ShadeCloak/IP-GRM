@@ -18,7 +18,7 @@ IP-GRM separates **principle generation** from **response judging**, reducing re
 
 | Date | Milestone |
 |------|-----------|
-| 2026-02-14 | Paper available on [arXiv](https://arxiv.org/abs/2602.10019111) |
+| 2026-02-14 | Paper available on [arXiv](https://github.com/ShadeCloak/IP-GRM/blob/main/paper.pdf) |
 | 2026-02-11 | Released IP-GRM model, CreativeWriting-8B model, and IP-rewarding-8K dataset on HuggingFace |
 
 
